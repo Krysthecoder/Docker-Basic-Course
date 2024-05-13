@@ -189,4 +189,4 @@ head -n 5 [file] = will show the first few lines in this case 5
 
 
 cat file1.txt > file2.txt == the > will redirect the content 1 to another file
-# Docker-Basic-Course
+
